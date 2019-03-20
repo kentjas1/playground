@@ -1,0 +1,31 @@
+{
+  "name": "bonsai-cli",
+  "version": "0.0.1",
+  "description": "Bonsai Component Generator",
+  "main": "index.js",
+  "preferGlobal": true,
+  "dependencies": {
+    "@ithaka/bonsai": "^1.17.0",
+    "colors": "^1.3.3",
+    "commander": "^2.19.0",
+    "fs-extra": "^7.0.1",
+    "inquirer": "^6.2.2"
+  },
+  "bin": {
+    "bonsai": "./index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentjas1/playground"
+  },
+  "author": "Jay Kent",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/kentjas1/playground/issues"
+  },
+  "homepage": "https://github.com/kentjas1/playground/bonsai-cli#readme"
+}

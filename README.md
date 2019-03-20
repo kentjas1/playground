@@ -1,2 +1,2 @@
 # playground
-Prototypes and projects for learning new things
+Prototypes and projects that I've done
